@@ -272,9 +272,3 @@ public class TicTacToe implements ActionListener{
 	
 }
 
-/*
- * Add tie condition
- * Maybe add like reset button or something
- * Add Scoreboard
- */
-
